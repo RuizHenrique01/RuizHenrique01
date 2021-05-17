@@ -9,7 +9,7 @@
 <p align=justify>
 I'm a computer technician graduated from the Instituto Federal de Educação, Ciência e Tecnologia do Amazonas(IFAM) and a junior software developer.
 
-- Course :books: - I have technical course in computers and some technologies like Java, Introduction to Python, Spring MVC, Android Development with Kotlin, Restful API and more.
-- Knowledge :man_teacher: - I have knowledge in Android and Web development, in addition to having knowledge in other technologies such as Restful APIs, HTML, CSS, JS, Python and databases.
+- Courses :books: - I have technical course in computers and some technologies like Java, Introduction to Python, Spring MVC, Android Development with Kotlin, Restful API and more.
+- Knowledges :man_teacher: - I have knowledges in Android and Web development, in addition to having knowledges in other technologies such as Restful APIs, HTML, CSS, JS, Python and databases.
 - Profile :man_technologist: - I'm focused and I like to study whenever possible new technologies.
 </p>
