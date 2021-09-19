@@ -40,6 +40,7 @@ Sou um desenvolvedor Back-end NodeJS Júnior e técnico de informática formado 
   <img height="40" alt="express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="40" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img height="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img height="40" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img height="40" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img height="40" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
