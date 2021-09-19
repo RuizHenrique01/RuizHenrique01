@@ -11,7 +11,7 @@ Sou um desenvolvedor Back-end NodeJS Júnior e técnico de informática formado 
   
 - Conhecimentos :man_teacher: - Possuo conhecimentos em desenvolvimento Android e Web, além de possuir conhecimentos em outras tecnologias como APIs Restful, HTML, CSS, JavaScript, TypeScript, NodeJS, Java, Kotlin, Bancos de dados, Python e outros.
   
-- Perfil :man_technologist: - Sou alguém extremamente apaixonado por tecnologia e sempre que possível gosto de participar de eventos e workshops de programação. Espero sempre esta aprendendo e evoluindo na minha carreia como desenvolvedor.
+- Perfil :man_technologist: - Sou extremamente apaixonado por tecnologia e sempre que possível gosto de participar de eventos e workshops de programação. Espero sempre esta aprendendo e evoluindo na minha carreia como desenvolvedor.
 </p>
 
 ### Estatísticas do GitHub 📊
