@@ -20,8 +20,8 @@ Sou um desenvolvedor Back-end NodeJS Júnior e técnico de informática formado 
 
 <div>
 <a href="https://github.com/RuizHenrique01">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuizHenrique01&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuizHenrique01&layout=compact&theme=radical&langs_count=9">
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RuizHenrique01&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuizHenrique01&layout=compact&theme=radical&langs_count=9">
 </div>
   
 ### Linguagens e Tecnologias que utilizo ⚡
