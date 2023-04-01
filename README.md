@@ -46,9 +46,10 @@ Sou um desenvolvedor Back-end NodeJS Júnior e técnico de informática formado 
   <img height="40" alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img height="40" alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img height="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
   <img height="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img height="40" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+  <img height="40" alt="c#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="40" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img height="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   <img height="40" alt="visual studio code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
