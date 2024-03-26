@@ -18,10 +18,10 @@ Sou um desenvolvedor Full Stack Júnior e técnico de informática formado pelo 
 
 <br/>
 
-<div>
-<a href="https://github.com/RuizHenrique01">
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RuizHenrique01&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuizHenrique01&layout=compact&theme=radical&langs_count=10&hide=handlebars">
+<div align="center">
+<a href="https://github.com/RuizHenrique01"/>
+<img height="175em"  src="https://github-readme-stats.vercel.app/api?username=RuizHenrique01&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img height="175em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuizHenrique01&layout=compact&theme=radical&langs_count=10&hide=handlebars">
 </div>
   
 ### Linguagens e Tecnologias que utilizo ⚡
