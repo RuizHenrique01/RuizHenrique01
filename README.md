@@ -6,6 +6,9 @@
 
 <p align=justify>
 Olá! Sou Affonso Ruiz, um Analista e Desenvolvedor de Sistemas formado pela renomada Faculdade Metropolitana de Manaus (Fametro), com uma sólida formação técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
+</p>
+
+<p align=justify>
 Me dedico ao estudo e prática da programação desde 2018, onde durante esse período tive a oportunidade de contribuir com o desenvolvimento de diversas aplicações, incluindo web (backend e frontend), mobile, jogos, desktop e automação industrial.
 </p>
 
