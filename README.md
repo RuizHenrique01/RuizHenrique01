@@ -5,13 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-affonsohenriqueruiz@gmail.com-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:affonsohenriqueruiz@gmail.com)](mailto:affonsohenriqueruiz@gmail.com)
 
 <p align=justify>
-Sou um desenvolvedor Full Stack Júnior e técnico de informática formado pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM). Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fametro.
+Olá! Sou Affonso Ruiz, um Analista e Desenvolvedor de Sistemas formado pela renomada Faculdade Metropolitana de Manaus (Fametro), com uma sólida formação técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
+Me dedico ao estudo e prática da programação desde 2018, onde durante esse período tive a oportunidade de contribuir com o desenvolvimento de diversas aplicações, incluindo web (backend e frontend), mobile, jogos, desktop e automação industrial.
+</p>
 
-- Cursos :books: - Tenho curso técnico em informática e outros cursos como Java, Introdução a Python, Spring MVC, Desenvolvimento Android com Kotlin, API Restful e mais.
-  
-- Conhecimentos :man_teacher: - Possuo conhecimentos em desenvolvimento Android e Web, além de possuir conhecimentos em outras tecnologias como APIs Restful, HTML, CSS, JavaScript, TypeScript, NodeJS, Java, Kotlin, Bancos de dados, Python e outros.
-  
-- Perfil :man_technologist: - Sou extremamente apaixonado por tecnologia e sempre que possível gosto de participar de eventos e workshops de programação. Espero sempre esta aprendendo e evoluindo na minha carreia como desenvolvedor.
+<p align=justify>
+  Sou extremamente apaixonado por tecnologia e estou sempre em busca de oportunidades para participar de eventos e workshops de programação. Meu objetivo é aprender e evoluir constantemente na minha carreira como desenvolvedor.
 </p>
 
 ### Estatísticas do GitHub 📊
