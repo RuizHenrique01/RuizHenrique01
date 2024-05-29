@@ -66,6 +66,7 @@ Me dedico ao estudo e prática da programação desde 2018, onde durante esse pe
   <img height="45" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img height="45" alt="dbeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
   <img height="45" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
+  <img height="45" alt="hostgator" src="https://raw.githubusercontent.com/RuizHenrique01/RuizHenrique01/771041c35f3e5154d08b3acb6f88791eab1fd648/assets/logos/hostgator.svg" />
   </div>
   
  <br/>
