@@ -65,6 +65,7 @@ Me dedico ao estudo e prática da programação desde 2018, onde durante esse pe
   <img height="45" alt="putty" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
   <img height="45" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img height="45" alt="dbeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+  <img height="45" alt="jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
   </div>
   
  <br/>
